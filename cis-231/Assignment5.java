@@ -1,14 +1,7 @@
-/*
-    Gavin Holmes / gavin_holmes@my.cuesta.edu
-    CIS231 / Assignment 5
-    Cuesta / R. Scovil
-    Due 05/03/2024
-*/
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class A5231GHolmes {
+public class Assignment5 {
 
     public static void loopStringInputs(Scanner scnr, ArrayList<Integer> intArr) {
         String nextStr = "default";

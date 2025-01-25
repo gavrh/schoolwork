@@ -1,17 +1,10 @@
-/*
-    Gavin Holmes / gavin_holmes@my.cuesta.edu
-    CIS231 / Assignment 4
-    Cuesta / R. Scovil
-    Due 04/10/2024
-*/
-
 // I didn't use a lot of comments in methods
 // because I feel like either the name or
 // code in the method is self explanatory
 
 import java.util.Scanner;
 
-public class CIS231A4GHol {
+public class Assignment4 {
 
     // scan int within certain range
     public static int scanIntInRange(Scanner scnr, int low, int high) {

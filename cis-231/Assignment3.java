@@ -1,12 +1,6 @@
-/*
-    Gavin Holmes / gavin_holmes@my.cuesta.edu
-    CIS 231 / Scovil
-    Assignment 3
-*/
-
 import java.util.Scanner;
 
-public class CIS231A3GHol {
+public class Assignment3 {
 
     // fahrenheit to celcius
     static double fToC(double fDeg) {
@@ -27,7 +21,7 @@ public class CIS231A3GHol {
     public static void main(String[] args) {
         
         // deg calc class / scanner
-        CIS231A3GHol degCalc = new CIS231A3GHol();
+        Assignment3 degCalc = new Assignment3();
         Scanner scnr = new Scanner(System.in);
 
         // f values

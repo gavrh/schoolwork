@@ -1,10 +1,4 @@
-/*
-    Gavin Holmes / gavin_holmes@my.cuesta.edu
-    CIS 231 / Scovil
-    Assignment 2
-*/
-
-public class CIS231A2GHol {
+public class Assignment2 {
     public static void main(String[] args) {
 
         System.out.println("Gavin Holmes");
