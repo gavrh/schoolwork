@@ -1,6 +1,6 @@
 # schoolwork
 
-My college coding classes work.
+My college coding class work.
 
 ### Disclaimer
 I do not condone cheating or using my work as your own.
